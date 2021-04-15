@@ -11,8 +11,8 @@
             "github_handle": ""
         },
         "about": {
-            "me": "Single pool operater from Bakersfield | CA | USA. I´m happy to be part of the Cardano network and to support the community",
-            "server": "Proxmox Server self hosted with backup site coming soon.Our equipment currently consists of 1 Block Producer and 2 Relay Nodes.We can guarantee an excellent internet connection. BARE METAL SERVERS ",
+            "me": "We are a private, independent Cardano Stake Pool Operator (SPO) based in California, USA. It is our mission to support a global ecosystem that is eco-friendly, transparent, efficient, reliable, and sustainable.",
+            "server": "Proxmox Server self hosted with backup site coming soon. Our equipment currently consists of 1 Block Producer and 1 Relay Nodes (2nd coming soon). We can guarantee an excellent internet connection. BARE METAL SERVERS",
         },
     "my-pool-ids": {
         "0": "pool15gdh4w26ax66aa2j5ehwcvm46as3jx0v7mhu678y7m5q5s80dwk",
