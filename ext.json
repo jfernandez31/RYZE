@@ -1,5 +1,7 @@
 {
     "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/jfernandez31/RYZE/main/logoicon.png",
+        "url_png_logo": "https://raw.githubusercontent.com/jfernandez31/RYZE/main/logo.jpg",
         "location": "Bakersfield, CA, USA",
         "social": {
             "twitter_handle": "@poolryze",
@@ -12,29 +14,15 @@
         },
         "about": {
             "me": "We are a private, independent Cardano Stake Pool Operator (SPO) based in California, USA. It is our mission to support a global ecosystem that is eco-friendly, transparent, efficient, reliable, and sustainable.",
-            "server": "Proxmox Server self hosted with backup site coming soon. Our equipment currently consists of 1 Block Producer and 1 Relay Nodes (2nd coming soon). We can guarantee an excellent internet connection. BARE METAL SERVERS.",
-            "company": "..."
-        }
-    },
+            "server": "Proxmox Server self hosted with backup site coming soon. Our equipment currently consists of 1 Block Producer and 1 Relay Nodes (2nd coming soon). We can guarantee an excellent internet connection. BARE METAL SERVERS",
+        },
     "my-pool-ids": {
         "0": "a21b7ab95ae9b5aef552a66eec3375d7611919ecf6efcd78e4f6e80a",
         "1": ""
-    },
-    "telegram-admin-handle": {
+      },
+         "telegram-admin-handle": {
         "0": "jfernandez31"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 usa",
-                "type": "relay",
-                "key": "ryze.apnadb.com"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "ryze2.apnadb.com"
-            }
-        }
     }
+    }
+   
 }
