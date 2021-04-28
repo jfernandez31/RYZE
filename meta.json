@@ -4,6 +4,6 @@
   "description": "Yet another ADA pool. Decentralizing one block at a time.",
   "homepage": "https://apnadb.com",
   "nonce": "1615585399",
-  "extended":"https://github.com/jfernandez31/RYZE/edit/main/ext.json"
+  "extended":"https://raw.githubusercontent.com/jfernandez31/RYZE/main/ext.json"
 
 }
