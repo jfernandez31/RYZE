@@ -5,24 +5,32 @@
         "location": "Bakersfield, CA, USA",
         "social": {
             "twitter_handle": "@poolryze",
-            "telegram_handle": "jfernandez31",
+            "telegram_handle": "fernandez31",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
         },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
         "about": {
             "me": "We are a private, independent Cardano Stake Pool Operator (SPO) based in California, USA. It is our mission to support a global ecosystem that is eco-friendly, transparent, efficient, reliable, and sustainable.",
             "server": "Proxmox Server self hosted with backup site coming soon. Our equipment currently consists of 1 Block Producer and 1 Relay Nodes (2nd coming soon). We can guarantee an excellent internet connection. BARE METAL SERVERS",
+            "company": ""
         },
+        "rss": ""
+    },
     "my-pool-ids": {
-        "0": "a21b7ab95ae9b5aef552a66eec3375d7611919ecf6efcd78e4f6e80a",
-        "1": ""
-      },
-         "telegram-admin-handle": {
+        "0": "a21b7ab95ae9b5aef552a66eec3375d7611919ecf6efcd78e4f6e80a"
+    },
+    "telegram-admin-handle": {
         "0": "jfernandez31"
     }
-    }
-   
 }
